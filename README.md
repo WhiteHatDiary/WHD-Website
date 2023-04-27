@@ -1,5 +1,7 @@
-# WHD-Website
-# I will be using Visual Code, Python, Django, JS to build develop WhiteHatDiary.com
+# WhiteHatDiary.com
+<br />
+# Code
+I will be using Visual Code, Python, Django, JS to build develop 
 <br />
 # Setting up Django in PowerShell
 <br />
