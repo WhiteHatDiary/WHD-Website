@@ -1,5 +1,4 @@
 # WhiteHatDiary.com
-<br />
 # Code
 I will be using Visual Code, Python, Django, JS to build develop 
 <br />
