@@ -1,10 +1,11 @@
 # WhiteHatDiary.com
+WHD is intended to become a blogging community with a focus on cyber security but will be the home for any IT professional, developer or homelab enthusiest.
 # Code
 I will be using Visual Code, Python, Django, JS to build develop 
 <br />
-# Setting up Django in PowerShell
+# 
 <br />
-First I will need to install the windows virtual wrapper.
+# Licensing
 <br />
 <br />
 <br />
