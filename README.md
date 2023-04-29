@@ -4,14 +4,18 @@ The road map for WHD is to first begin as my personal portfolio. However, my hop
 <br /> 
 # Features
  Register accounts
- Password recover - "Forgot Password"
+ <br />
+ Password recovery - "Forgot Password"
+ <br />
  Create, edit or delete articles
+ <br />
  Search blog articles
  
 
 # Code
-I will be using Visual Code, Python, Django, JS to build develop 
+Built in Terminal and Visual Studio Code
 <br />
+Django, Python, HTML/css, JS
 # 
 <br />
 # Licensing
